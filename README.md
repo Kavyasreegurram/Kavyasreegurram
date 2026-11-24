@@ -27,8 +27,41 @@ I explored how language models can plan steps and use tools to finish tasks on t
 
 ## What I work with
 
-Python, Pandas, NumPy, scikit-learn, XGBoost, PySpark, SHAP, LIME, Fairlearn, Plotly, and Jupyter/Colab, Artificial Intelligence ,Machine Learning,Deep Learning, Explainable AI, NLP, GEN AI agents
+Python, Pandas, NumPy, scikit-learn, XGBoost, PySpark, SHAP, LIME, Fairlearn, Plotly, and Jupyter/Colab, Google Colab ,Artificial Intelligence ,Machine Learning,Deep Learning, Explainable AI, NLP, GEN AI agents
 
+Professional Experience
+
+Co-Founder — mnemoIQ
+
+2026 – Present
+
+- Contributing to startup development, product strategy and business growth.
+- Involved in building AI-driven products and exploring business opportunities.
+- Representing the startup through networking and technology events.
+- Supporting partnerships and client acquisition.
+
+Website: https://www.mnemoiq.store/about
+
+AI Developer Intern — Vibha Technika
+
+2026 – Present
+
+- Working on AI development and practical AI applications.
+- Exploring AI-based solutions and implementation approaches.
+- Contributing to development and technical problem-solving.
+
+AI Researcher — Yantra
+
+- Worked on AI research, with an interest in Spatial AI and emerging intelligent technologies.
+- Explored applications involving spatial computing and AI-powered experiences.
+
+Leadership & Community
+
+AI Builders — Community Host
+
+- Hosting technology and AI community events in London.
+- Engaging with developers, researchers, founders and technology professionals.
+- Building connections across the AI ecosystem and encouraging knowledge sharing.
 ---
 
 ## A bit more about me
