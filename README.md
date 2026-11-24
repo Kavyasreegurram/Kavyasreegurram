@@ -1,6 +1,6 @@
 # Hey, I'm Kavyasree Gurram 👋
 
-I'm a data science and machine learning enthusiast, and I'm currently looking for my first role in the field. I like turning messy data into something useful. What interests me most is understanding *why* a model makes the predictions it does, not just getting a high accuracy score.
+I'm a Artificial intelligence and machine learning enthusiast, and I'm currently looking for my first role in the field. I like turning messy data into something useful. What interests me most is understanding *why* a model makes the predictions it does, not just getting a high accuracy score.
 
 📍 <!-- london-- UK-->
 📧 <!-- kavyasreegurram2025@gmail.com -->
